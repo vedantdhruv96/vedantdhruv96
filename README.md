@@ -11,30 +11,29 @@
     </a>
     <a href="https://scholar.google.com/citations?user=Ghz0ZWoAAAAJ&hl=en">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar badge"/>
-    </a>
+<!--     </a>
      <a href="https://orcid.org/0000-0001-6765-877X">
       <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID badge"/>
-    </a>
+    </a> -->
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=vedantdhruv96&style=flat-square&color=blue" alt=""/>
 
-  <h1>
-    Hey there! :wave: I'm Vedant Dhruv
-  </h1>
+  <div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> Hey there :wave: </h1>
+    </summary>
+  </ul>
+</div>
 </div>
 
-<!--
-**vedantdhruv96/vedantdhruv96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---- 
+## I'm Vedant Dhruv, a computational theoretical astrophysict interested in various aspects of black hole accretion. I
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on [KHARMA](https://github.com/AFD-Illinois/kharma)
+- 💬 Ask me about GRMHD, black hole images, high-performance computing. 
+- 📫 How to reach me: vdhruv2@illinois.edu
+- 😄 Pronouns: he/him
