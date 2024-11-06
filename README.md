@@ -37,7 +37,7 @@
 - 😄 Pronouns: he/him
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -48,3 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" height="40"/>&nbsp;
 </div>
+
+<!---
+---
+### :fire: My stats: 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedantdhruv96)](https://git.io/streak-stats)
+-->
