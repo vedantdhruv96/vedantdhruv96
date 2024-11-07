@@ -19,13 +19,13 @@
 
   <img src="https://komarev.com/ghpvc/?username=vedantdhruv96&style=flat-square&color=blue" alt=""/>
 
-  <div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h1> Hey there :smile: </h1>
-    </summary>
-  </ul>
-</div>
+  <div id="toc" style="text-align: left;">
+    <ul style="list-style: none; padding-left: 0;">
+      <summary>
+        <h1 style="text-align: left;"> Hey there :smile: </h1>
+      </summary>
+    </ul>
+  </div>
 </div>
 
 ---- 
