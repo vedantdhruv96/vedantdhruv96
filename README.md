@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/0f9784b4-b550-494a-9e31-d8aa04361cb7"/>
 
   <div id="badges">
-    <a href="www.linkedin.com/in/vedant-dhruv-8428552b9">
+    <a href="https://www.linkedin.com/in/vedant-dhruv-8428552b9">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://vedantdhruv96.github.io/">
