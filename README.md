@@ -17,7 +17,7 @@
     </a> -->
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=vedantdhruv96&style=flat-square&color=blue" alt=""/>
+  <!---<img src="https://komarev.com/ghpvc/?username=vedantdhruv96&style=flat-square&color=blue" alt=""/> --->
 
   <div id="toc" style="text-align: left;">
     <ul style="list-style: none; padding-left: 0;">
