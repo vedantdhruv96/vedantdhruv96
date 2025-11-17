@@ -29,7 +29,7 @@
 </div>
 
 ---- 
-### About me: A computational theoretical astrophysict interested in various aspects of black hole accretion
+### About me: A computational astrophysict interested in various aspects of black hole accretion
 
 - 🔭 I’m currently working on dissipative black hole accretion in [KHARMA](https://github.com/AFD-Illinois/kharma), relativistic electron-ion plasmas in [TRISTAN-MP](https://github.com/ntoles/tristan-mp-pitp)  
 - 💬 Ask me about GRMHD, black hole images, high-performance computing.
